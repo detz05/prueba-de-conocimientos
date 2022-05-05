@@ -41,7 +41,10 @@ Finalmente damos en Continuar y esperamos a que se importe las tabla a la base d
 Luego nos dirigimos al navegador y entramos al proyecto
 en mi caso con
 `http://localhost/test/`
+
 ![Entrar al proyecto](https://i.imgur.com/Mh0DQNs.png)
+![Entrar al proyecto](https://i.imgur.com/7HLuStK.png)
+![Entrar al proyecto](https://i.imgur.com/r5S7kqQ.png)
 
 
 Todo funcionando correctamente:)
