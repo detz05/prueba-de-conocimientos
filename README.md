@@ -7,7 +7,7 @@ A continuación explicare como hacer funcionar el proyecto.
 Encender los servicios de Apache y Mysql
 En este caso usaremos XAMPP
 
-![Encender servicios Apache y Mysql](https://i.imgur.com/vH0gS9x.png)
+![Encender servicios Apache y Mysql](https://i.imgur.com/TPUfwh9.png)
 
 Asegurese de tener instalado git ya que clonaremos el proyecto
 
