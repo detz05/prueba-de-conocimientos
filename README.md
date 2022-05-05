@@ -1,4 +1,4 @@
-# Prueba Técnica Sandro EMMANUEL TRIBIÑO - Nexura
+# Prueba de conocimiento EMMANUEL TRIBIÑO
 A continuación explicare como hacer funcionar el proyecto.
 
 ## Como hacer funcionar la aplicación
